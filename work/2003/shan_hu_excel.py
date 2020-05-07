@@ -22,7 +22,7 @@ def stand_name(x):
 def stand_label(x):
     # 标签去除“-”和数字
     x = x.replace('-', '')
-    remove_digits = str.maketrans('', '', digits)
+    remove_digits = str.maketrans('', '', digits)   # 去除数字
     return x.translate(remove_digits)
 
 def get_head(x):
