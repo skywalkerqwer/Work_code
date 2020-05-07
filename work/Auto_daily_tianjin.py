@@ -16,15 +16,15 @@ pd.set_option('display.width', 5000)
 
 # 常参
 TIME = time.strftime('%Y-%m-%d', time.localtime(time.time()))  # 当日日期  2019-12-06
-START_TIME = '2020-1-7 00:00:00'  # 活动开始时间
-PATH = r'I:\日报统计数据\天津0108\数据源\\'
+START_TIME = '2020-5-6 00:00:00'  # 活动开始时间
+PATH = r'C:\Users\Healthlink\Desktop\日报统计数据\无锡 5月\源数据\\'
 print('今天日期为：', TIME, '  星期', datetime.datetime.now().isoweekday(), sep='')
 
 # 文件名称
-FILE_sales = r'新春钜献国寿好礼营销员会议-' + str(TIME)+ ".csv"
-FILE_member = r'新春钜献国寿好礼会员会议-' + str(TIME)+ ".csv"
+FILE_sales = r'2020国寿健康大联盟，营销员会议-' + str(TIME)+ ".csv"
+FILE_member = r'2020国寿健康大联盟，会员招募会员会议-' + str(TIME)+ ".csv"
 FILE_sales_info = r'员工列表.csv'
-FILE_card = r'天津卡激活数据提取.xls'
+FILE_card = r'无锡卡激活数据提取.xls'
 # FILE_error = r'12-10失效报名.xlsx'  # 21个报名未关联营销员信息补充表格
 
 # 读取两个会议数据和营销员备案数据
@@ -210,7 +210,7 @@ for company in company_count.index:
     print('%s报表写入完成'%company)
 """
 
-writer = pd.ExcelWriter(PATH + '..//新春钜献国寿好礼活动日报数据' + TIME + '.xlsx')
+writer = pd.ExcelWriter(PATH + '..//2020国寿健康大联盟活动日报数据' + TIME + '.xlsx')
 df_first.to_excel(writer, sheet_name='报名表', index=False)
 df_second.to_excel(writer, sheet_name='转介绍表', index=False)
 df_third.to_excel(writer, sheet_name='多重奖励名单', index=False)
