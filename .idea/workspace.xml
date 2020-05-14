@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2001c98-cc8e-4a19-a44c-95165c97e577" name="Default Changelist" comment="" />
+    <list default="true" id="c2001c98-cc8e-4a19-a44c-95165c97e577" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -267,33 +270,50 @@
       <workItem from="1588991387877" duration="10412000" />
       <workItem from="1589179118545" duration="8494000" />
       <workItem from="1589417740021" duration="3210000" />
+      <workItem from="1589436564652" duration="2970000" />
     </task>
+    <task id="LOCAL-00001" summary="5-14">
+      <created>1589436600699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589436600699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-14" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1285" height="161" key="GridCell.Tab.0.bottom" timestamp="1589435330509">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1731" y="131" key="CommitChangelistDialog2" timestamp="1589436598080">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1731" y="131" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589436598080" />
+    <state width="1285" height="162" key="GridCell.Tab.0.bottom" timestamp="1589448719668">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1285" height="161" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
-    <state width="1285" height="161" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
-    <state width="1285" height="161" key="GridCell.Tab.0.center" timestamp="1589435330509">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1285" height="162" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589448719668" />
+    <state width="1285" height="162" key="GridCell.Tab.0.center" timestamp="1589448719668">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1285" height="161" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
-    <state width="1285" height="161" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
-    <state width="1285" height="161" key="GridCell.Tab.0.left" timestamp="1589435330509">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1285" height="162" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589448719668" />
+    <state width="1285" height="162" key="GridCell.Tab.0.left" timestamp="1589448719666">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1285" height="161" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
-    <state width="1285" height="161" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
-    <state width="1285" height="161" key="GridCell.Tab.0.right" timestamp="1589435330509">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1285" height="162" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589448719666" />
+    <state width="1285" height="162" key="GridCell.Tab.0.right" timestamp="1589448719668">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1285" height="161" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
-    <state width="1285" height="161" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
+    <state width="1285" height="162" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589448719668" />
     <state width="1876" height="363" key="GridCell.Tab.1.bottom" timestamp="1584007212814">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -314,6 +334,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1634" y="213" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589419448332" />
+    <state x="1923" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589436618238">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1923" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589436618238" />
     <state x="0" y="0" width="1382" height="854" key="dock-window-1" timestamp="1582524863386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -326,7 +350,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Code$3_11_merge__318.coverage" NAME="3-11 merge_医疗咨询_318 Coverage Results" MODIFIED="1583917461406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$first.coverage" NAME="first Coverage Results" MODIFIED="1565319518032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Work_code$return_staff.coverage" NAME="return_staff Coverage Results" MODIFIED="1589419199785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
+    <SUITE FILE_PATH="coverage/Work_code$return_staff.coverage" NAME="return_staff Coverage Results" MODIFIED="1589448719624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1587526596072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Work_code$Auto_daily_tianjin.coverage" NAME="Auto_daily_tianjin Coverage Results" MODIFIED="1589179341002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
     <SUITE FILE_PATH="coverage/Code$calu_pie.coverage" NAME="calu_pie Coverage Results" MODIFIED="1579145002498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
@@ -369,7 +393,7 @@
     <SUITE FILE_PATH="coverage/Code$test.coverage" NAME="test Coverage Results" MODIFIED="1575531234424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$QA_report_cloud.coverage" NAME="QA_report_cloud Coverage Results" MODIFIED="1575531460874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Code$SCRM_spider__1_.coverage" NAME="SCRM_spider (1) Coverage Results" MODIFIED="1573639223795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
-    <SUITE FILE_PATH="coverage/Work_code$return_fans.coverage" NAME="return_fans Coverage Results" MODIFIED="1589362629078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
+    <SUITE FILE_PATH="coverage/Work_code$return_fans.coverage" NAME="return_fans Coverage Results" MODIFIED="1589448705447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$word_freq_count.coverage" NAME="word_freq_count Coverage Results" MODIFIED="1583309979902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$KPI_model.coverage" NAME="KPI_model Coverage Results" MODIFIED="1578558146775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
     <SUITE FILE_PATH="coverage/Code$.coverage" NAME="排行榜 Coverage Results" MODIFIED="1577155774710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/游戏排行榜" />
