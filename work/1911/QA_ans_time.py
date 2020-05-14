@@ -5,7 +5,7 @@
 import pandas as pd
 
 PATH = r'D:\数据\慢病QA数据\提取\\'
-FILE = '慢病用户问答数据2019-11-25.xlsx'
+FILE = '慢病用户问答数据2020-05-11.xlsx'
 
 origin_df = pd.read_excel(PATH + FILE)  # 原始数据
 

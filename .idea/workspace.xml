@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,8 +61,8 @@
       <recent name="D:\Code\FP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.random_test">
-    <configuration name="3-11screen_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.return_staff">
+    <configuration name="Auto_daily_tianjin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,12 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2003/3-11screen_user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/Auto_daily_tianjin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wechat_photo_wall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Auto_daily_wuxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2004" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2004/Wechat_photo_wall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/Auto_daily_wuxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QA_ans_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/1911" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/fibo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/1911/QA_ans_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="return_fans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/random_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/return_fans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_RF_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="return_staff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Code\work\2003\simple_RF_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/return_staff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,19 +173,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3-11screen_user" />
-      <item itemvalue="Python.Wechat_photo_wall" />
-      <item itemvalue="Python.fibo" />
-      <item itemvalue="Python.random_test" />
-      <item itemvalue="Python.simple_RF_model" />
+      <item itemvalue="Python.return_fans" />
+      <item itemvalue="Python.Auto_daily_tianjin" />
+      <item itemvalue="Python.QA_ans_time" />
+      <item itemvalue="Python.Auto_daily_wuxi" />
+      <item itemvalue="Python.return_staff" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random_test" />
-        <item itemvalue="Python.Wechat_photo_wall" />
-        <item itemvalue="Python.simple_RF_model" />
-        <item itemvalue="Python.fibo" />
-        <item itemvalue="Python.3-11screen_user" />
+        <item itemvalue="Python.return_staff" />
+        <item itemvalue="Python.return_fans" />
+        <item itemvalue="Python.Auto_daily_wuxi" />
+        <item itemvalue="Python.QA_ans_time" />
+        <item itemvalue="Python.Auto_daily_tianjin" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +264,9 @@
       <workItem from="1587526114405" duration="585000" />
       <workItem from="1587707932389" duration="16000" />
       <workItem from="1587966438015" duration="1374000" />
+      <workItem from="1588991387877" duration="10412000" />
+      <workItem from="1589179118545" duration="8494000" />
+      <workItem from="1589417740021" duration="3210000" />
     </task>
     <servers />
   </component>
@@ -271,30 +274,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1285" height="239" key="GridCell.Tab.0.bottom" timestamp="1587526704545">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1285" height="161" key="GridCell.Tab.0.bottom" timestamp="1589435330509">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="181" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1585560093015" />
-    <state width="1285" height="239" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1587526704545" />
-    <state width="1322" height="195" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578900693374" />
-    <state width="1285" height="239" key="GridCell.Tab.0.center" timestamp="1587526704545">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1285" height="161" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
+    <state width="1285" height="161" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
+    <state width="1285" height="161" key="GridCell.Tab.0.center" timestamp="1589435330509">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="181" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1585560093015" />
-    <state width="1285" height="239" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1587526704545" />
-    <state width="1322" height="195" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578900693374" />
-    <state width="1285" height="239" key="GridCell.Tab.0.left" timestamp="1587526704545">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1285" height="161" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
+    <state width="1285" height="161" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
+    <state width="1285" height="161" key="GridCell.Tab.0.left" timestamp="1589435330509">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="181" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1585560093015" />
-    <state width="1285" height="239" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1587526704545" />
-    <state width="1322" height="195" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578900693374" />
-    <state width="1285" height="239" key="GridCell.Tab.0.right" timestamp="1587526704545">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1285" height="161" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
+    <state width="1285" height="161" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
+    <state width="1285" height="161" key="GridCell.Tab.0.right" timestamp="1589435330509">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="181" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1585560093015" />
-    <state width="1285" height="239" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1587526704545" />
-    <state width="1322" height="195" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578900693374" />
+    <state width="1285" height="161" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589435330509" />
+    <state width="1285" height="161" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589420501141" />
     <state width="1876" height="363" key="GridCell.Tab.1.bottom" timestamp="1584007212814">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -311,10 +310,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="363" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584007212814" />
-    <state x="1634" y="213" key="SettingsEditor" timestamp="1585820694798">
+    <state x="1634" y="213" key="SettingsEditor" timestamp="1589419448332">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1634" y="213" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585820694798" />
+    <state x="1634" y="213" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589419448332" />
     <state x="0" y="0" width="1382" height="854" key="dock-window-1" timestamp="1582524863386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -325,25 +324,42 @@
     <state x="1989" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584327205663" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$3_11_merge__318.coverage" NAME="3-11 merge_医疗咨询_318 Coverage Results" MODIFIED="1583917461406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
+    <SUITE FILE_PATH="coverage/Code$first.coverage" NAME="first Coverage Results" MODIFIED="1565319518032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Work_code$return_staff.coverage" NAME="return_staff Coverage Results" MODIFIED="1589419199785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
+    <SUITE FILE_PATH="coverage/Code$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1587526596072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/Work_code$Auto_daily_tianjin.coverage" NAME="Auto_daily_tianjin Coverage Results" MODIFIED="1589179341002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
+    <SUITE FILE_PATH="coverage/Code$calu_pie.coverage" NAME="calu_pie Coverage Results" MODIFIED="1579145002498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
+    <SUITE FILE_PATH="coverage/Code$bar_chart_race.coverage" NAME="bar_chart_race Coverage Results" MODIFIED="1578036779424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Code$data_pr_for_bar_chart_race.coverage" NAME="data_pr_for_bar_chart_race Coverage Results" MODIFIED="1578472816717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
+    <SUITE FILE_PATH="coverage/Code$daily_report_v2_0.coverage" NAME="daily_report_v2.0 Coverage Results" MODIFIED="1577437387494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Code$test_.coverage" NAME="test' Coverage Results" MODIFIED="1578886563775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
+    <SUITE FILE_PATH="coverage/Code$cut_age.coverage" NAME="cut_age Coverage Results" MODIFIED="1583908281208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
+    <SUITE FILE_PATH="coverage/Code$create_wordcloud.coverage" NAME="create_wordcloud Coverage Results" MODIFIED="1575530158809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1908" />
+    <SUITE FILE_PATH="coverage/Code$3_11screen_user.coverage" NAME="3-11screen_user Coverage Results" MODIFIED="1583916866037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
+    <SUITE FILE_PATH="coverage/Code$super_auto_daily.coverage" NAME="super_auto_daily Coverage Results" MODIFIED="1576465308055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912/daily" />
+    <SUITE FILE_PATH="coverage/Code$Auto_daily__1_.coverage" NAME="Auto_daily (1) Coverage Results" MODIFIED="1578885637962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Code$1204_QA_analyze.coverage" NAME="1204 QA_analyze Coverage Results" MODIFIED="1576463004390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Code$Auto_daily_neimeng.coverage" NAME="Auto_daily_neimeng Coverage Results" MODIFIED="1581319895984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/Daily_report_email" />
+    <SUITE FILE_PATH="coverage/Code$QA_ans_time.coverage" NAME="QA_ans_time Coverage Results" MODIFIED="1574649005454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
+    <SUITE FILE_PATH="coverage/Code$daily_report_v1_0.coverage" NAME="daily_report_v1.0 Coverage Results" MODIFIED="1576721046738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Code$shan_hu_excel.coverage" NAME="shan_hu_excel Coverage Results" MODIFIED="1583737716696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
+    <SUITE FILE_PATH="coverage/Work_code$Auto_daily_wuxi.coverage" NAME="Auto_daily_wuxi Coverage Results" MODIFIED="1589330813850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$poster.coverage" NAME="poster Coverage Results" MODIFIED="1575880798224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Code$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1578969683117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
-    <SUITE FILE_PATH="coverage/Code$3_11_merge__318.coverage" NAME="3-11 merge_医疗咨询_318 Coverage Results" MODIFIED="1583917461406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$SCRM_spider.coverage" NAME="SCRM_spider Coverage Results" MODIFIED="1573626734887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$Wechat_photo_wall.coverage" NAME="Wechat_photo_wall Coverage Results" MODIFIED="1586846586217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2004" />
-    <SUITE FILE_PATH="coverage/Code$first.coverage" NAME="first Coverage Results" MODIFIED="1565319518032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code$robot.coverage" NAME="robot Coverage Results" MODIFIED="1577157000826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxrobot-master" />
     <SUITE FILE_PATH="coverage/Code$Auto_daily_tianjin.coverage" NAME="Auto_daily_tianjin Coverage Results" MODIFIED="1581299989957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/Daily_report_email" />
     <SUITE FILE_PATH="coverage/Code$tt.coverage" NAME="tt Coverage Results" MODIFIED="1585896051357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1573443410692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1587526596072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Code$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1576461996484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Work_code$daily_report_v2_0.coverage" NAME="daily_report_v2.0 Coverage Results" MODIFIED="1588992056330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$Auto_daily.coverage" NAME="Auto_daily Coverage Results" MODIFIED="1578625590448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/日报统计数据/天津0108" />
     <SUITE FILE_PATH="coverage/Code$3_11statistic.coverage" NAME="3-11statistic Coverage Results" MODIFIED="1583912014718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$rfm_test.coverage" NAME="rfm_test Coverage Results" MODIFIED="1582531037653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2002" />
-    <SUITE FILE_PATH="coverage/Code$calu_pie.coverage" NAME="calu_pie Coverage Results" MODIFIED="1579145002498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
+    <SUITE FILE_PATH="coverage/Work_code$QA_ans_time.coverage" NAME="QA_ans_time Coverage Results" MODIFIED="1589190094097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$daily_report.coverage" NAME="daily_report Coverage Results" MODIFIED="1576573847982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$bar_chart_race.coverage" NAME="bar_chart_race Coverage Results" MODIFIED="1578036779424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$data_pr_for_bar_chart_race.coverage" NAME="data_pr_for_bar_chart_race Coverage Results" MODIFIED="1578472816717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
     <SUITE FILE_PATH="coverage/Code$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1576461669434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Code$Flourish_date_processing.coverage" NAME="Flourish_date_processing Coverage Results" MODIFIED="1578542056515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
     <SUITE FILE_PATH="coverage/Code$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1565166785521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -352,22 +368,11 @@
     <SUITE FILE_PATH="coverage/Code$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1584327381903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
     <SUITE FILE_PATH="coverage/Code$test.coverage" NAME="test Coverage Results" MODIFIED="1575531234424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$QA_report_cloud.coverage" NAME="QA_report_cloud Coverage Results" MODIFIED="1575531460874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$daily_report_v2_0.coverage" NAME="daily_report_v2.0 Coverage Results" MODIFIED="1577437387494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$test_.coverage" NAME="test' Coverage Results" MODIFIED="1578886563775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
-    <SUITE FILE_PATH="coverage/Code$cut_age.coverage" NAME="cut_age Coverage Results" MODIFIED="1583908281208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
     <SUITE FILE_PATH="coverage/Code$SCRM_spider__1_.coverage" NAME="SCRM_spider (1) Coverage Results" MODIFIED="1573639223795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
-    <SUITE FILE_PATH="coverage/Code$create_wordcloud.coverage" NAME="create_wordcloud Coverage Results" MODIFIED="1575530158809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1908" />
+    <SUITE FILE_PATH="coverage/Work_code$return_fans.coverage" NAME="return_fans Coverage Results" MODIFIED="1589362629078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$word_freq_count.coverage" NAME="word_freq_count Coverage Results" MODIFIED="1583309979902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
-    <SUITE FILE_PATH="coverage/Code$3_11screen_user.coverage" NAME="3-11screen_user Coverage Results" MODIFIED="1583916866037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
-    <SUITE FILE_PATH="coverage/Code$super_auto_daily.coverage" NAME="super_auto_daily Coverage Results" MODIFIED="1576465308055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912/daily" />
-    <SUITE FILE_PATH="coverage/Code$Auto_daily__1_.coverage" NAME="Auto_daily (1) Coverage Results" MODIFIED="1578885637962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$1204_QA_analyze.coverage" NAME="1204 QA_analyze Coverage Results" MODIFIED="1576463004390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Code$KPI_model.coverage" NAME="KPI_model Coverage Results" MODIFIED="1578558146775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
-    <SUITE FILE_PATH="coverage/Code$Auto_daily_neimeng.coverage" NAME="Auto_daily_neimeng Coverage Results" MODIFIED="1581319895984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/Daily_report_email" />
-    <SUITE FILE_PATH="coverage/Code$QA_ans_time.coverage" NAME="QA_ans_time Coverage Results" MODIFIED="1574649005454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$.coverage" NAME="排行榜 Coverage Results" MODIFIED="1577155774710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/游戏排行榜" />
     <SUITE FILE_PATH="coverage/Code$new_way_draw_map.coverage" NAME="new_way_draw_map Coverage Results" MODIFIED="1578036162027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
-    <SUITE FILE_PATH="coverage/Code$daily_report_v1_0.coverage" NAME="daily_report_v1.0 Coverage Results" MODIFIED="1576721046738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
-    <SUITE FILE_PATH="coverage/Code$shan_hu_excel.coverage" NAME="shan_hu_excel Coverage Results" MODIFIED="1583737716696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
   </component>
 </project>
