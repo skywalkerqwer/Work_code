@@ -67,6 +67,9 @@ browser.find_element_by_xpath('//*[@id="login-btn"]').click()  # 点击登录
 time.sleep(1)
 browser.find_element_by_xpath('//*[@id="login-btn"]').click()  # 点击登录
 browser.implicitly_wait(10)
+
+# 跳过到期提示
+# browser.find_element_by_xpath('//*[@id="st-dialog-44636"]/div[2]/div[2]/a').click()
 # 通过初始引导
 browser.find_element_by_xpath('//*[@id="joyRidePopup0"]/a[1]').click()
 time.sleep(0.5)

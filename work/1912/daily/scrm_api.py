@@ -20,7 +20,7 @@ params = {
     'source': SOURCE,
     'secret': SECRET,
     'appid': NEI_MENG,
-    'meeting_id': '',
+    # 'meeting_id': '',
 }
 
 
@@ -31,6 +31,11 @@ def get_data(url, meeting_id):
     dict_result = result['data']
     df_meeting = pd.DataFrame(dict_result)
     return df_meeting
+
+if __name__ == '__main__':
+
+    sale_meeting_id = 12667
+    # df = get_data(invite_info, sale_meeting_id)
 
 # writer = pd.ExcelWriter('p.xlsx')
 # df_meeting.to_excel(writer,index=False)
