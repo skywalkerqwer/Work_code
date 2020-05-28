@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2001c98-cc8e-4a19-a44c-95165c97e577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/work/2005/project_retun_excel/return_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/2005/project_retun_excel/return_fans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/2005/project_retun_excel/return_staff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/2005/project_retun_excel/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/2005/pyqt_test/5-20 my_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/2005/pyqt_test/run_auto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/2005/mian_yi_li.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/2005/round_age.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/1911/SCRM_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/1911/SCRM_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/1912/daily/scrm_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/1912/daily/scrm_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/work/2005/project_retun_excel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/work/2005" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -71,6 +64,7 @@
       <recent name="D:\Code\FP" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work_code\work\2005" />
       <recent name="D:\Work_code\work\2005\project_retun_excel" />
       <recent name="D:\Code\work\Daily_report_email" />
     </key>
@@ -90,6 +84,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/Auto_daily_wuxi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mian_yi_li" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/mian_yi_li.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="return_fans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="round_age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,34 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005/project_retun_excel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/project_retun_excel/return_fans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="return_staff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work/2005/project_retun_excel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/project_retun_excel/return_staff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/2005/round_age.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.return_fans" />
       <item itemvalue="Python.return_excel" />
-      <item itemvalue="Python.return_staff" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Auto_daily_wuxi" />
+      <item itemvalue="Python.mian_yi_li" />
+      <item itemvalue="Python.round_age" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Auto_daily_wuxi" />
+        <item itemvalue="Python.mian_yi_li" />
+        <item itemvalue="Python.round_age" />
         <item itemvalue="Python.return_excel" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.return_staff" />
-        <item itemvalue="Python.return_fans" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +277,8 @@
       <workItem from="1589417740021" duration="3210000" />
       <workItem from="1589436564652" duration="6137000" />
       <workItem from="1589794559068" duration="126000" />
-      <workItem from="1589866851518" duration="30957000" />
+      <workItem from="1589866851518" duration="39321000" />
+      <workItem from="1590107129102" duration="2952000" />
     </task>
     <task id="LOCAL-00001" summary="5-14">
       <created>1589436600699</created>
@@ -315,26 +310,26 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1731" y="131" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1589436598080" />
-    <state width="1285" height="185" key="GridCell.Tab.0.bottom" timestamp="1590024257838">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1106" height="185" key="GridCell.Tab.0.bottom" timestamp="1590137255646">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1285" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589875843284" />
-    <state width="1285" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590024257838" />
-    <state width="1285" height="185" key="GridCell.Tab.0.center" timestamp="1590024257838">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1106" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590137255646" />
+    <state width="1106" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590052399078" />
+    <state width="1106" height="185" key="GridCell.Tab.0.center" timestamp="1590137255645">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1285" height="185" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589875843284" />
-    <state width="1285" height="185" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590024257838" />
-    <state width="1285" height="185" key="GridCell.Tab.0.left" timestamp="1590024257838">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1106" height="185" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590137255645" />
+    <state width="1106" height="185" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590052399077" />
+    <state width="1106" height="185" key="GridCell.Tab.0.left" timestamp="1590137255645">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1285" height="185" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589875843284" />
-    <state width="1285" height="185" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590024257838" />
-    <state width="1285" height="185" key="GridCell.Tab.0.right" timestamp="1590024257838">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1106" height="185" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590137255645" />
+    <state width="1106" height="185" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590052399077" />
+    <state width="1106" height="185" key="GridCell.Tab.0.right" timestamp="1590137255645">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1285" height="185" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1589875843284" />
-    <state width="1285" height="185" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590024257838" />
+    <state width="1106" height="185" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590137255645" />
+    <state width="1106" height="185" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590052399078" />
     <state width="1876" height="363" key="GridCell.Tab.1.bottom" timestamp="1584007212814">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -351,10 +346,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="363" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584007212814" />
-    <state x="1634" y="213" key="SettingsEditor" timestamp="1590027430859">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="192" y="53" key="SettingsEditor" timestamp="1590129881132">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="192" y="53" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590019804101" />
+    <state x="192" y="53" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1590129881132" />
     <state x="1634" y="213" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590027430859" />
     <state x="1923" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589436618238">
       <screen x="1366" y="0" width="1920" height="1080" />
@@ -394,8 +389,9 @@
     <SUITE FILE_PATH="coverage/Code$Auto_daily_neimeng.coverage" NAME="Auto_daily_neimeng Coverage Results" MODIFIED="1581319895984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/Daily_report_email" />
     <SUITE FILE_PATH="coverage/Code$QA_ans_time.coverage" NAME="QA_ans_time Coverage Results" MODIFIED="1574649005454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$daily_report_v1_0.coverage" NAME="daily_report_v1.0 Coverage Results" MODIFIED="1576721046738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
+    <SUITE FILE_PATH="coverage/Work_code$round_age.coverage" NAME="round_age Coverage Results" MODIFIED="1590047067188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$shan_hu_excel.coverage" NAME="shan_hu_excel Coverage Results" MODIFIED="1583737716696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2003" />
-    <SUITE FILE_PATH="coverage/Work_code$Auto_daily_wuxi.coverage" NAME="Auto_daily_wuxi Coverage Results" MODIFIED="1590020442832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
+    <SUITE FILE_PATH="coverage/Work_code$Auto_daily_wuxi.coverage" NAME="Auto_daily_wuxi Coverage Results" MODIFIED="1590107245980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$poster.coverage" NAME="poster Coverage Results" MODIFIED="1575880798224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Code$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1578969683117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2001" />
     <SUITE FILE_PATH="coverage/Code$SCRM_spider.coverage" NAME="SCRM_spider Coverage Results" MODIFIED="1573626734887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
@@ -417,6 +413,7 @@
     <SUITE FILE_PATH="coverage/Code$QA_area.coverage" NAME="QA_area Coverage Results" MODIFIED="1573529485161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$scrm_api_test.coverage" NAME="scrm_api_test Coverage Results" MODIFIED="1576466135706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1909" />
     <SUITE FILE_PATH="coverage/Code$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1584327381903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/Work_code$mian_yi_li.coverage" NAME="mian_yi_li Coverage Results" MODIFIED="1590051066013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005" />
     <SUITE FILE_PATH="coverage/Code$test.coverage" NAME="test Coverage Results" MODIFIED="1575531234424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1911" />
     <SUITE FILE_PATH="coverage/Code$QA_report_cloud.coverage" NAME="QA_report_cloud Coverage Results" MODIFIED="1575531460874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/1912" />
     <SUITE FILE_PATH="coverage/Work_code$run_auto.coverage" NAME="run_auto Coverage Results" MODIFIED="1589947489121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work/2005/pyqt_test" />
