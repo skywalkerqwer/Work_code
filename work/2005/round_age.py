@@ -2,7 +2,7 @@ import pandas as pd
 import math
 
 
-df = pd.read_excel(r'D:\数据\免疫检测类报告分析\5-25 免疫早早筛统计\HLS202001B054免疫力项目数据提取.xlsx')
+df = pd.read_excel(r'D:\数据\免疫检测类报告分析\6-1\HLS2049136B054.xlsx')
 
 
 def int_age(x):
